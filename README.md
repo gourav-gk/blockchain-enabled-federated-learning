@@ -77,11 +77,12 @@ flower-client-app client:app --insecure
 
 ### 3. Run the Flower App
 
-# Medium Blog
-https://medium.com/@kgourav038/building-a-blockchain-enabled-federated-learning-system-with-incentives-99a2cda11d3d
-
 With both the long-running server (SuperLink) and two clients (SuperNode) up and running, we can now run the actual Flower App, using:
 
 ```bash
 flower-server-app server:app --insecure
 ```
+
+
+# Medium Blog
+https://medium.com/@kgourav038/building-a-blockchain-enabled-federated-learning-system-with-incentives-99a2cda11d3d
